@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
+body {
+    margin: 0 !important;
+    font-family: 'Newsreader', serif;
+}
+
+.app {
+    background-color: #F5F8FA;
+    height: 100%;
+    width: 100vw;
+    margin: 0;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+.row {
+    margin: 0;
+    width: 100%;
+}
